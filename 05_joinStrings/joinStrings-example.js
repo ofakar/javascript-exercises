@@ -12,5 +12,5 @@ module.exports = {
   birthYear,
   thisYear,
   firstName,
-  lastName
-}
+  lastName,
+};
